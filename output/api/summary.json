@@ -1,0 +1,49 @@
+{
+  "generated_at": "2025-08-06T02:17:18.286132+00:00",
+  "total_repositories": 31,
+  "categories": {
+    "trending": 1,
+    "established": 30,
+    "hidden_gems": 0
+  },
+  "top_languages": {
+    "Python": 19,
+    "C++": 3,
+    "Jupyter Notebook": 2,
+    "null": 2,
+    "Go": 1,
+    "TypeScript": 1,
+    "JavaScript": 1,
+    "HTML": 1,
+    "C": 1
+  },
+  "top_trending": [
+    {
+      "name": "owl",
+      "stars": 17750
+    }
+  ],
+  "top_established": [
+    {
+      "name": "tensorflow",
+      "stars": 191065
+    },
+    {
+      "name": "AutoGPT",
+      "stars": 177520
+    },
+    {
+      "name": "transformers",
+      "stars": 147934
+    },
+    {
+      "name": "ollama",
+      "stars": 148895
+    },
+    {
+      "name": "stable-diffusion-webui",
+      "stars": 155254
+    }
+  ],
+  "top_hidden_gems": []
+}

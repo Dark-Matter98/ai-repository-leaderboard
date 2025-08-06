@@ -1,0 +1,64 @@
+{
+  "generated_at": "2025-08-06T01:50:20.504822",
+  "trending": [
+    {
+      "rank": 1,
+      "repository": {
+        "id": 1,
+        "name": "test-dashboard-repo",
+        "full_name": "user/test-dashboard-repo",
+        "description": "Test repository for dashboard generation",
+        "html_url": "https://github.com/user/test-dashboard-repo",
+        "clone_url": "https://github.com/user/test-dashboard-repo.git",
+        "owner_login": "user",
+        "owner_type": "User",
+        "owner_avatar_url": "https://github.com/user.png",
+        "stargazers_count": 100,
+        "watchers_count": 20,
+        "forks_count": 10,
+        "open_issues_count": 3,
+        "size": 2000,
+        "language": "Python",
+        "languages": {},
+        "topics": [
+          "test",
+          "dashboard"
+        ],
+        "license_name": null,
+        "created_at": "2025-07-07T01:50:20.504730",
+        "updated_at": "2025-08-05T01:50:20.504730",
+        "pushed_at": "2025-08-05T01:50:20.504730",
+        "contributors_count": 2,
+        "readme_length": 500,
+        "readme_content": "Test repository",
+        "has_ci": false,
+        "has_tests": false,
+        "has_documentation": false,
+        "momentum_score": 0.0,
+        "quality_score": 0.0,
+        "final_score": 5.0,
+        "readme_embedding": null,
+        "cluster_id": null
+      },
+      "metrics": {
+        "repo_id": 1,
+        "full_name": "user/test-dashboard-repo",
+        "stars_growth_30d": 0,
+        "stars_growth_7d": 0,
+        "commit_frequency_30d": 0,
+        "test_coverage_score": 0.0,
+        "documentation_score": 0.0,
+        "code_quality_score": 0.0,
+        "contributor_diversity_score": 0.0,
+        "calculated_at": "2025-08-06T01:50:20.504809"
+      },
+      "category": "trending",
+      "change_from_previous": null
+    }
+  ],
+  "established": [],
+  "hidden_gems": [],
+  "clusters": [],
+  "total_repos_analyzed": 1,
+  "data_freshness_hours": 0.0
+}

@@ -1,0 +1,25 @@
+{
+  "count": 1,
+  "repositories": [
+    {
+      "rank": 1,
+      "name": "owl",
+      "full_name": "camel-ai/owl",
+      "description": "\ud83e\udd89 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+      "html_url": "https://github.com/camel-ai/owl",
+      "stargazers_count": 17750,
+      "forks_count": 2060,
+      "language": "Python",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "multi-agent-systems",
+        "task-automation",
+        "web-interaction"
+      ],
+      "updated_at": "2025-08-06T00:49:34+00:00",
+      "simple_score": 13526.16,
+      "category": "trending"
+    }
+  ]
+}

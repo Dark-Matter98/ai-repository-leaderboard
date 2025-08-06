@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__filesystem__write_file",
+      "mcp__filesystem__create_directory",
+      "Bash(find:*)",
+      "Bash(python:*)",
+      "Bash(pip install:*)",
+      "Bash(source:*)"
+    ],
+    "deny": []
+  }
+}
