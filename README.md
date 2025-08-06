@@ -2,13 +2,13 @@
 
 > **Interactive dashboard showcasing trending AI, Machine Learning, RAG, and Agent projects on GitHub**
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Demo-blue?style=for-the-badge&logo=github)](https://Dark-Matter98.github.io/ai-leaderboard)
+[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live_Demo-blue?style=for-the-badge&logo=github)](https://dark-matter98.github.io/ai-repository-leaderboard/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://python.org)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 ## 🌟 **Live Demo**
 
-**👉 [View Live Dashboard](https://Dark-Matter98.github.io/ai-leaderboard) 👈**
+**👉 [View Live Dashboard](https://dark-matter98.github.io/ai-repository-leaderboard/) 👈**
 
 A comprehensive system for discovering, analyzing, and ranking trending open-source AI repositories on GitHub. This project automatically scrapes GitHub for AI/ML repositories, calculates various metrics, performs semantic clustering, identifies hidden gems, and generates interactive leaderboards.
 
